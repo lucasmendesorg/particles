@@ -18,4 +18,4 @@ Particles is a modern C++20 application that demonstrates real-time particle ren
 4. Build the project:
 > cmake --build build
 
-Or simply open ou Visual Studio 2022/2026`.
+Or simply open with Visual Studio 2022/2026.
